@@ -7,6 +7,11 @@
 }
 
 
+.highligth {
+    background-color: var(--highlights);
+}
+
+
 /* Top */
 #top {
     background-image: url(../img\ /pattern.jpg);
