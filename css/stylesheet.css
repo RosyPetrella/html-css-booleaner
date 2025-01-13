@@ -5,3 +5,39 @@
     --highlights: #ffff00;
     --booleaner: #46b8ea;
 }
+
+
+/* Top */
+#top {
+    background-image: url(../img\ /pattern.jpg);
+    background-repeat: repeat-x;
+    background-size: 30%;
+    background-color: #4ea0ff;
+    color: #ffffff;
+}
+
+#logo {
+    height: 50px;
+    padding-top: 30px;
+}
+/* Top */
+
+
+/* Info */
+.info {
+    color: #838383;
+    font-weight: bold;
+}
+
+#date {
+    color: #838383;
+    font-size: 0.8rem;
+}
+/* Info */
+
+
+/* Caption */
+#caption {
+    font-size: 0.8rem;
+}
+/* Caption */
